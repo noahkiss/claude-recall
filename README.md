@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Claude Recall" width="100%">
+</p>
+
 # Claude Recall
 
 Search and retrieve context from past Claude Code conversations.
