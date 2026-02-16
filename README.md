@@ -156,6 +156,10 @@ python3 recall/scripts/search.py format-time "2026-02-10T19:30:00Z"
 
 All commands output JSON to stdout, suitable for piping to `jq` or other tools.
 
+## Example
+
+See [examples/real-world-search.md](examples/real-world-search.md) for a walkthrough of an actual Recall session — showing the two-phase search, cross-project discovery, refinement, and sub-agent usage with real token counts and timing.
+
 ## Skill specification
 
 This skill follows the [Agent Skills](https://agentskills.io/specification) format:
